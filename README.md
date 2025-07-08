@@ -1,6 +1,6 @@
 Excel-Report-Splitter-Grouper-Automation:
 
-This repository contains two Python automation tools for generating Excel reports by splitting or merging sheets based on either department or function.
+This repository contains two Python automation tools for generating Excel reports by splitting or grouping sheets based on either department or function.
 
 Tools Included:
 
