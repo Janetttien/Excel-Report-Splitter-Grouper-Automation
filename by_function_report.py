@@ -1,4 +1,4 @@
-# by function report
+# By function report
 
 import xlwings as xw 
 import os 
